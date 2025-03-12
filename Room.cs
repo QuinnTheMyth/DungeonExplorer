@@ -5,9 +5,9 @@ using System.Linq;
 namespace DungeonExplorer
 {
     /// <summary>
-    /// Room class. Holds information about the room's name and items contained in it.
+    /// Room class holds info about the room's name and items contained in it
     /// </summary>
-    class Room
+    public class Room
     {
         private string _roomName;
         private string _roomItem;
