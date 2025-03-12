@@ -7,7 +7,7 @@ namespace DungeonExplorer
     /// <summary>
     /// Room class holds info about the room's name and items contained in it
     /// </summary>
-    public class Room
+    class Room
     {
         private string _roomName;
         private string _roomItem;
